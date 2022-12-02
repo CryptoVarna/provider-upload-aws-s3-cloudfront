@@ -23,10 +23,10 @@ The following params were added:
 
 ```bash
 # using yarn
-yarn add @strapi/provider-upload-aws-s3
+yarn add @cryptovarna/provider-upload-aws-s3-cloudfront
 
 # using npm
-npm install @strapi/provider-upload-aws-s3 --save
+npm install @cryptovarna/provider-upload-aws-s3-cloudfront --save
 ```
 
 ## Configuration
